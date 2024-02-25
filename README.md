@@ -23,17 +23,10 @@ And promo_type = "BOGOF";
 ```
 **2. Generate a report that provides an overview of number of stores in each city.**
 ```
-SELECT 
-    city,
-    COUNT(store_id) AS num_stores
-FROM 
-    dim_stores 
-WHERE 
-    store_id IN (SELECT DISTINCT store_id FROM fact_events)
-GROUP BY 
-    city 
-ORDER BY 
-    num_stores Desc;
+select city , count(store_id) AS num_stores
+from dim_stores
+Group By city
+Order by num_stores DESC;
 ```
 **3.Generate a report that displayes each campaign along with their total revenue before and after the campaign.**
 ```
