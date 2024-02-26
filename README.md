@@ -127,10 +127,10 @@ GROUP BY
 
 
 ## Project Links 
-My Linkedin profile link -- </p>
-Video presentation link --</p>
-Project link --</p>
-Dashboard link --</p>
+My Linkedin profile link -- [https://www.linkedin.com/in/nikita-y-481861229/]</p>
+Video presentation link --[https://www.linkedin.com/feed/update/urn:li:activity:7167770919669645312/]</p>
+Project challenge link --[https://codebasics.io/challenge/codebasics-resume-project-challenge]</p>
+Dashboard link --[https://www.novypro.com/project/atliq-mart-sales-analysis-project-fmcg-domain]</p>
 
 
 
