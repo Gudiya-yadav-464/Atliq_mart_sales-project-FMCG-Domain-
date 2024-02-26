@@ -4,7 +4,7 @@
 ### Codebasics Reume project Challenge - 9 </p>
 The project is about a retail company which is an Atliq Mart. Now we will understand about the company and their needs.</p>
 
-## Problem Statement </p>
+## Objective </p>
 **Atliq Mart** is a retail giant company with over **50+ supermarkets** in **southern region** of india.</p> Atliq mart ran a massive promotion during **Diwali 2024 and Sankranti 2025**(festive time in india) on their Atliq Branded Products.</p> Now their Sales director wants to know the which promotion did well and which not so that they which promotion did well and which not so tthat they can make informed decision from them.
 
 ## Business Request </p>
@@ -125,8 +125,19 @@ GROUP BY
 2. Are there any specific products that respond exceptionally well or poorely to promotions?
 3. What is the correlation between product category and promotion type effectivness?
 
+## KPI Details 
 
-## Project Links 
+ #### Incremental Revenue(IR)  
+ The Incremental revenue is the revenue that generated after any action or promotion by company --</p>
+ Formula-- </p>
+ Incremental Revenue (IR) = Revneue after Action/Promotion - Revenue before Action/Promotion</p>
+
+#### Incremental sold Quantity(ISU)</p>
+Incremental sold Quantity(ISU)- The incremental sold quantity shows that how much increment happend in the quantity of the products after any Action or promotion </p>
+Formula -- </p>
+Incremental Sold Quantity(ISU) = Quantity sold after Action/promotion - Quantity sold before Action/promotion</p>
+
+## Links 
 My Linkedin profile link -- [https://www.linkedin.com/in/nikita-y-481861229/]</p>
 Video presentation link --[https://www.linkedin.com/feed/update/urn:li:activity:7167770919669645312/]</p>
 Project challenge link --[https://codebasics.io/challenge/codebasics-resume-project-challenge]</p>
