@@ -138,10 +138,10 @@ Formula -- </p>
 Incremental Sold Quantity(ISU) = Quantity sold after Action/promotion - Quantity sold before Action/promotion</p>
 
 ## Links 
-My Linkedin profile link -- [https://www.linkedin.com/in/nikita-y-481861229/]</p>
+My Linkedin profile link -- (https://www.linkedin.com/in/gudiya-y-dataanalyst/)]</p>
 Video presentation link --[https://www.linkedin.com/feed/update/urn:li:activity:7167770919669645312/]</p>
 Project challenge link --[https://codebasics.io/challenge/codebasics-resume-project-challenge]</p>
-Dashboard link --[https://www.novypro.com/project/atliq-mart-sales-analysis-project-fmcg-domain]</p>
+Dashboard link - [https://www.novypro.com/project/atliq-mart-sales-analysis-project-fmcg-domain](https://app.powerbi.com/view?r=eyJrIjoiMTE1MjZkNTUtZDJjNC00MzU2LTk3ZjEtNGQ0ZjIxNmVjYWYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)</p>
 
 
 
